@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="eCurrency:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/eCurrency_jar</output-path>
+    <root id="archive" name="eCurrency.jar">
+      <element id="module-output" name="eCurrency" />
+    </root>
+  </artifact>
+</component>

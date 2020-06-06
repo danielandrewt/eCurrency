@@ -1,0 +1,9 @@
+name: eCurrency
+version: 1.0.0
+author: GrayesUwU
+description: An eCurrency plugin by GrayesUwU
+main: me.grayes.eCurrency.Main
+
+commands:
+  ecurrency:
+    description: Main command
